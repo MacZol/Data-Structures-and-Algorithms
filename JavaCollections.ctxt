@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=JavaCollections
+comment0.text=\r\n\ CO551\ -\ 2018\ Assessment\ 1.\r\n\r\n\ @version\ 1.0\r\n
+comment1.params=values
+comment1.target=int\ arithmeticMiddle(int[])
+comment1.text=\r\n\ Task\ 1.\r\n\ Method\ to\ return\ the\ index\ 'i'\ where\ the\ sum\ of\ values\ in\ the\ sub-array\ of\ elements\ indexed\ at\r\n\ {0,.\ .\ .,i\u22121}\ is\ the\ same\ as\ the\ sub-array\ of\ elements\ indexed\ at\ {i\ +\ 1,.\ .\ .,\ n\u22121}\ \u2014\ where\ n\r\n\ is\ the\ number\ of\ elements\ in\ the\ array.\r\n
+comment2.params=expression
+comment2.target=boolean\ checkExpression(java.lang.String)
+comment2.text=\r\n\ Task\ 2.\r\n\ method\ using\ a\ Stack\ data\ structure\ to\ return\ a\ boolean\ value\ indicating\ whether\ the\ expression\r\n\ has\ a\ missing\ parenthesis\ pair\ or\ not.\r\n
+comment3.params=list
+comment3.target=java.util.LinkedList\ reverseList(java.util.LinkedList)
+comment3.text=\r\n\ Task\ 3.\r\n\ Method\ to\ reverse\ the\ list\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ Method\ to\ test\ the\ implemenation\ of\ the\ tasks.\ Note\ that\ this\r\n\ are\ just\ examples,\ your\ implementation\ must\ work\ with\ any\r\n\ valid\ input.\r\n
+numComments=5
